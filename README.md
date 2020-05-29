@@ -1,3 +1,9 @@
+This code is associated with the paper from Hartmann1 et al., An Image-based Data-Driven analysis of cellular architecturein a developing tissue. eLife, 2020. http://doi.org/10.7554/eLife.55913
+
+
+
+
+
 ## Image-Based Data-Driven Analysis of Cellular Architecture
 
 This repository hosts the code developed for and used in the paper entitled `"An Image-Based Data-Driven Analysis of Cellular Architecture in a Developing Tissue" (Hartmann et al., 2020)`.  All code was written by Jonas Hartmann.
